@@ -1,0 +1,56 @@
+Could not find google-services.json while looking in [src/nullnull/debug, src/debug/nullnull, src/nullnull, src/debug, src/nullnullDebug]
+registerResGeneratingTask is deprecated, use registerGeneratedResFolders(FileCollection)
+Could not find google-services.json while looking in [src/nullnull/release, src/release/nullnull, src/nullnull, src/release, src/nullnullRelease]
+registerResGeneratingTask is deprecated, use registerGeneratedResFolders(FileCollection)
+Parsing json file: C:\code\ctf\FirebasePerformanceTransformIssue\app\google-services.json
+
+***********START(AfterFirebase)*************
+Inputs :
+Dir Inputs :
+Directory 0 4e9f562149faa90a240352ae42573e9d-ClassA : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\FirebasePerformancePlugin\debug\0
+Directory 1 86ea9bf5804345a6fce473e44c5c3067-ClassB : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\FirebasePerformancePlugin\debug\1
+Directory 2 a821614b35df7917a4c5a2dd91164efa-ClassC : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\FirebasePerformancePlugin\debug\2
+Directory 3 948219099af44bfedb3a12cfaa946c18-ClassD : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\FirebasePerformancePlugin\debug\3
+Directory 4 886900b45843611bb2b14b56155b84e3-classes : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\FirebasePerformancePlugin\debug\4
+Directory 5 a1bc9fbafd893b444116d6080283ed49-classes : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\FirebasePerformancePlugin\debug\5
+Directory 6 e2b89c163146e3d6ba02016b1fca1247-classes : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\FirebasePerformancePlugin\debug\6
+Directory 7 f4851f9f7aa55110553946a7100b265a-classes : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\FirebasePerformancePlugin\debug\7
+Directory 8 426034a5bdb6655a60c5246cf118892d-classes : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\FirebasePerformancePlugin\debug\8
+Directory 9 adda0b4f5d413da5944af8678063008e-classes : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\FirebasePerformancePlugin\debug\9
+Directory 10 2f2779f0c8a72b2259fedf1a165c2c55-classes : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\FirebasePerformancePlugin\debug\10
+Directory 11 d9e8fcdf54b949cb5a4f999cdb3109f6-classes : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\FirebasePerformancePlugin\debug\11
+Directory 12 4a4d9e97c5efab9baf79376f808e9e20-classes : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\FirebasePerformancePlugin\debug\12
+Directory 13 9ac42201add06bb1ffc3825485bf1a65-classes : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\FirebasePerformancePlugin\debug\13
+Directory 14 a3278d164163b2edc48ba8ce8c4fdd0f-classes : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\FirebasePerformancePlugin\debug\14
+Directory 15 b8e7651c628681541ad53363ab38556c-classes : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\FirebasePerformancePlugin\debug\15
+Directory 16 d67c599a68721982a65c0cc76ce66efb-classes : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\FirebasePerformancePlugin\debug\16
+Directory 17 b1f4e142c3d7a647f5c664539f9acfdc-classes : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\FirebasePerformancePlugin\debug\17
+Directory 18 75da6975f296a5a8445224ae3101abf2-classes : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\FirebasePerformancePlugin\debug\18
+Directory 19 b5036e295e8bd212a18af97d96c04ee1-classes : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\FirebasePerformancePlugin\debug\19
+Directory 20 82fc41aeb988e88c94aff3d17bdafca7-classes : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\FirebasePerformancePlugin\debug\20
+Directory 21 03054d0fb1ac9f4a86cbf5edd8d60cbd-classes : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\FirebasePerformancePlugin\debug\21
+Directory 22 f6fd38eeb8d62b514a6da63229f63e5c-classes : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\FirebasePerformancePlugin\debug\22
+Directory 23 ef097fb2cc966cd222a9414322577995-classes : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\FirebasePerformancePlugin\debug\23
+Directory 24 a85432f2c196ddc4b6f832c1e362d0a0-classes : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\FirebasePerformancePlugin\debug\24
+Directory 25 9b7524c84741023976e3623161615807-classes : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\FirebasePerformancePlugin\debug\25
+Directory 26 67138fa676b0800dad2d91a7a8333d34-classes : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\FirebasePerformancePlugin\debug\26
+Directory 27 1cd0c8b70aabee808ea5311baa204410-classes : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\FirebasePerformancePlugin\debug\27
+Directory 28 9fdf1dc8e5890993363c9ce514e963f0-classes : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\FirebasePerformancePlugin\debug\28
+Directory 29 045e3ac301ad21ddb253a8cfeb9a2a33-classes : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\FirebasePerformancePlugin\debug\29
+Directory 30 babf87a7acd25c4b03cfa3c86a36b352-classes : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\FirebasePerformancePlugin\debug\30
+Directory 31 77e2ae8b73542f911fdd2573404f0024-classes : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\FirebasePerformancePlugin\debug\31
+Directory 32 d577ecbcdc3681ff307fa21aeec4ea9a-classes : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\FirebasePerformancePlugin\debug\32
+Directory 33 57926ee6e9d7366daad2df5053c353d7-classes : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\FirebasePerformancePlugin\debug\33
+Directory 34 34051c5f688948363eab83c905d833af-classes : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\FirebasePerformancePlugin\debug\34
+Directory 35 7a29a04a6742c66b0289fd6db6850199-classes : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\FirebasePerformancePlugin\debug\35
+Directory 36 410b2169c8afad49ca5bbaa0e38bb129-support-annotations-26.1.0 : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\FirebasePerformancePlugin\debug\36
+Directory 37 bd63582ff7e1b6eb332331fcb1705524-classes : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\FirebasePerformancePlugin\debug\37
+Directory 38 d05a5db790a6d26b08d5b157f0328c64-common-1.0.0 : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\FirebasePerformancePlugin\debug\38
+Directory 39 df6e4f2fcc7a300b86c9b82dc0894556-common-1.0.0 : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\FirebasePerformancePlugin\debug\39
+Directory 40 391c733b3b7b94c34b8a39b990471c20 : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\FirebasePerformancePlugin\debug\40
+Jar Inputs :
+No Jar Inputs
+
+************END(AfterFirebase)**************
+
+23 actionable tasks: 5 executed, 18 up-to-date

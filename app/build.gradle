@@ -1,0 +1,34 @@
+apply plugin: 'com.android.application'
+android.registerTransform(new com.example.transform.MyTransform("BeforeFirebase"))
+
+//If you comment out the 'firebase-perf' plugin, you will see the names printed in AfterFirebase are kept the same
+apply plugin: 'com.google.firebase.firebase-perf'
+
+android {
+    compileSdkVersion 26
+
+    defaultConfig {
+        applicationId "com.example.helloworld"
+        minSdkVersion 14
+        targetSdkVersion 26
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+android.registerTransform(new com.example.transform.MyTransform("AfterFirebase"))
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    testImplementation 'junit:junit:4.12'
+    implementation 'com.android.support:appcompat-v7:26.1.0'
+    implementation 'com.android.support:design:26.1.0'
+    implementation 'com.google.firebase:firebase-core:16.0.6'
+    implementation 'com.google.firebase:firebase-perf:16.2.3'
+}
+apply plugin: 'com.google.gms.google-services'

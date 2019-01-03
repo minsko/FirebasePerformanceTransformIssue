@@ -1,0 +1,118 @@
+Could not find google-services.json while looking in [src/nullnull/debug, src/debug/nullnull, src/nullnull, src/debug, src/nullnullDebug]
+registerResGeneratingTask is deprecated, use registerGeneratedResFolders(FileCollection)
+Could not find google-services.json while looking in [src/nullnull/release, src/release/nullnull, src/nullnull, src/release, src/nullnullRelease]
+registerResGeneratingTask is deprecated, use registerGeneratedResFolders(FileCollection)
+Parsing json file: C:\code\ctf\FirebasePerformanceTransformIssue\app\google-services.json
+
+***********START(BeforeFirebase)*************
+Inputs :
+Dir Inputs :
+No Directory Inputs
+Jar Inputs :
+Jar 0 android.local.jars:ClassA.jar:c15a27ee0eb37bd83a4dab187a8da5b93864719d : C:\code\ctf\FirebasePerformanceTransformIssue\app\libs\ClassA.jar
+Jar 1 android.local.jars:ClassB.jar:153ef1fd8914e74838f615c95b6864f34608aeea : C:\code\ctf\FirebasePerformanceTransformIssue\app\libs\ClassB.jar
+Jar 2 android.local.jars:ClassC.jar:75dcae9c9a1bf7beb4d5f095da0766df6bf5234b : C:\code\ctf\FirebasePerformanceTransformIssue\app\libs\ClassC.jar
+Jar 3 android.local.jars:ClassD.jar:81cd086b29df97ab01dbb26bc1f76ac9e163f353 : C:\code\ctf\FirebasePerformanceTransformIssue\app\libs\ClassD.jar
+Jar 4 com.android.support:design:26.1.0 : C:\Users\minsko.PREINT\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\7c6f530e863897457f23e211cda29700\jars\classes.jar
+Jar 5 com.android.support:appcompat-v7:26.1.0 : C:\Users\minsko.PREINT\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\4a2e66b6652a9a892d5f333bc329490d\jars\classes.jar
+Jar 6 com.google.firebase:firebase-core:16.0.6 : C:\Users\minsko.PREINT\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.6.aar\d489a96eee380fd3680415d6b2d1241f\jars\classes.jar
+Jar 7 com.google.firebase:firebase-perf:16.2.3 : C:\Users\minsko.PREINT\.gradle\caches\transforms-1\files-1.1\firebase-perf-16.2.3.aar\ede79537bfb7ef5b546f694f6814f352\jars\classes.jar
+Jar 8 com.android.support:animated-vector-drawable:26.1.0 : C:\Users\minsko.PREINT\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\5a0c1a229dfc703b69deade5f4229fb4\jars\classes.jar
+Jar 9 com.android.support:support-vector-drawable:26.1.0 : C:\Users\minsko.PREINT\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\f572a8b129ce28400ab22bb6f653f9c7\jars\classes.jar
+Jar 10 com.android.support:recyclerview-v7:26.1.0 : C:\Users\minsko.PREINT\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\7da7ff275ccea14caa6b698b0f84331a\jars\classes.jar
+Jar 11 com.android.support:transition:26.1.0 : C:\Users\minsko.PREINT\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\b6acf00ba58f892ccf4c9675b5e56b96\jars\classes.jar
+Jar 12 com.google.firebase:firebase-measurement-connector-impl:17.0.4 : C:\Users\minsko.PREINT\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\343869a99213ddf059e58041140232e0\jars\classes.jar
+Jar 13 com.google.firebase:firebase-config:16.1.2 : C:\Users\minsko.PREINT\.gradle\caches\transforms-1\files-1.1\firebase-config-16.1.2.aar\623dbdf28afad00f7c2a9d08dc954b65\jars\classes.jar
+Jar 14 com.google.firebase:firebase-analytics:16.0.6 : C:\Users\minsko.PREINT\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\cbd61b61ad84aa5e0688ba55d69e59b5\jars\classes.jar
+Jar 15 com.google.android.gms:play-services-clearcut:16.0.0 : C:\Users\minsko.PREINT\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\ed4960527524682bf71ad254147c804d\jars\classes.jar
+Jar 16 com.google.android.gms:play-services-phenotype:16.0.0 : C:\Users\minsko.PREINT\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\e5f8f83911b0014739ccd44f41e1baf6\jars\classes.jar
+Jar 17 com.google.android.gms:play-services-measurement-api:16.0.4 : C:\Users\minsko.PREINT\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.0.4.aar\7aaa2e4455cc54b872020348e53c068a\jars\classes.jar
+Jar 18 com.google.firebase:firebase-abt:16.0.1 : C:\Users\minsko.PREINT\.gradle\caches\transforms-1\files-1.1\firebase-abt-16.0.1.aar\0ab5f2ba43ed41ba40fe46c1db7be221\jars\classes.jar
+Jar 19 com.google.firebase:firebase-analytics-impl:16.2.4 : C:\Users\minsko.PREINT\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\ae177f62866b7c7cec5af0dd377f66fa\jars\classes.jar
+Jar 20 com.google.firebase:firebase-iid:17.0.3 : C:\Users\minsko.PREINT\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\2868855b8d11f1835534545e969ab801\jars\classes.jar
+Jar 21 com.google.firebase:firebase-iid-interop:16.0.1 : C:\Users\minsko.PREINT\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\ffefcbc71e46d5eb17446721c73f0b47\jars\classes.jar
+Jar 22 com.google.android.gms:play-services-base:16.0.1 : C:\Users\minsko.PREINT\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\56f08cb4094624349212e960d76740a0\jars\classes.jar
+Jar 23 com.google.firebase:firebase-common:16.0.3 : C:\Users\minsko.PREINT\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\cc20b35ffcdf8f6456efd759a24689d2\jars\classes.jar
+Jar 24 com.google.android.gms:play-services-tasks:16.0.1 : C:\Users\minsko.PREINT\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\dfc55a5831273af2e521f0ab1a40a6d3\jars\classes.jar
+Jar 25 com.google.android.gms:play-services-measurement-base:16.0.5 : C:\Users\minsko.PREINT\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.5.aar\df4fcf3405d9e6d637e499ea7cac951e\jars\classes.jar
+Jar 26 com.google.android.gms:play-services-stats:16.0.1 : C:\Users\minsko.PREINT\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\7ed12cd607d80e02fa558db559add9dc\jars\classes.jar
+Jar 27 com.google.firebase:firebase-measurement-connector:17.0.1 : C:\Users\minsko.PREINT\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\a8ac2283aa1a9c869b9a66b242de07ef\jars\classes.jar
+Jar 28 com.google.android.gms:play-services-ads-identifier:16.0.0 : C:\Users\minsko.PREINT\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\3320903ebee5aaa35e3506893722bab3\jars\classes.jar
+Jar 29 com.google.android.gms:play-services-basement:16.0.1 : C:\Users\minsko.PREINT\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\91f36edd17db1693efe11d4fc317c0b9\jars\classes.jar
+Jar 30 com.android.support:support-v4:26.1.0 : C:\Users\minsko.PREINT\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4aa3b6b6f352133bceeb90ff866a647e\jars\classes.jar
+Jar 31 com.android.support:support-media-compat:26.1.0 : C:\Users\minsko.PREINT\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3e8802a13cca434f29f0660395de17e2\jars\classes.jar
+Jar 32 com.android.support:support-fragment:26.1.0 : C:\Users\minsko.PREINT\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b87a3b37bbc1c144f4a6f1d45b145fb5\jars\classes.jar
+Jar 33 com.android.support:support-core-utils:26.1.0 : C:\Users\minsko.PREINT\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\5a7eab6ceebba92d1ffd06febf862625\jars\classes.jar
+Jar 34 com.android.support:support-core-ui:26.1.0 : C:\Users\minsko.PREINT\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\54dba83e75396fbcbed7e20a68cc1fd5\jars\classes.jar
+Jar 35 com.android.support:support-compat:26.1.0 : C:\Users\minsko.PREINT\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\1b79028ac70298dd153c2dc2a8925289\jars\classes.jar
+Jar 36 com.android.support:support-annotations:26.1.0 : C:\Users\minsko.PREINT\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar
+Jar 37 android.arch.lifecycle:runtime:1.0.0 : C:\Users\minsko.PREINT\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\fe1758867021a558d871eab6b962af56\jars\classes.jar
+Jar 38 android.arch.lifecycle:common:1.0.0 : C:\Users\minsko.PREINT\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar
+Jar 39 android.arch.core:common:1.0.0 : C:\Users\minsko.PREINT\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar
+Dir Inputs :
+Directory 0 606d587b004568eb751f0a1dc19ccf32c6f097e2 : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\javac\debug\compileDebugJavaWithJavac\classes
+Jar Inputs :
+No Jar Inputs
+Dir Inputs :
+No Directory Inputs
+Jar Inputs :
+No Jar Inputs
+Dir Inputs :
+No Directory Inputs
+Jar Inputs :
+No Jar Inputs
+
+************END(BeforeFirebase)**************
+
+
+***********START(AfterFirebase)*************
+Inputs :
+Dir Inputs :
+Directory 0 606d587b004568eb751f0a1dc19ccf32c6f097e2 : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\BeforeFirebase\debug\40
+Jar Inputs :
+Jar 0 android.local.jars:ClassA.jar:c15a27ee0eb37bd83a4dab187a8da5b93864719d : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\BeforeFirebase\debug\0.jar
+Jar 1 android.local.jars:ClassB.jar:153ef1fd8914e74838f615c95b6864f34608aeea : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\BeforeFirebase\debug\1.jar
+Jar 2 android.local.jars:ClassC.jar:75dcae9c9a1bf7beb4d5f095da0766df6bf5234b : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\BeforeFirebase\debug\2.jar
+Jar 3 android.local.jars:ClassD.jar:81cd086b29df97ab01dbb26bc1f76ac9e163f353 : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\BeforeFirebase\debug\3.jar
+Jar 4 com.android.support:design:26.1.0 : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\BeforeFirebase\debug\4.jar
+Jar 5 com.android.support:appcompat-v7:26.1.0 : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\BeforeFirebase\debug\5.jar
+Jar 6 com.google.firebase:firebase-core:16.0.6 : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\BeforeFirebase\debug\6.jar
+Jar 7 com.google.firebase:firebase-perf:16.2.3 : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\BeforeFirebase\debug\7.jar
+Jar 8 com.android.support:animated-vector-drawable:26.1.0 : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\BeforeFirebase\debug\8.jar
+Jar 9 com.android.support:support-vector-drawable:26.1.0 : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\BeforeFirebase\debug\9.jar
+Jar 10 com.android.support:recyclerview-v7:26.1.0 : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\BeforeFirebase\debug\10.jar
+Jar 11 com.android.support:transition:26.1.0 : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\BeforeFirebase\debug\11.jar
+Jar 12 com.google.firebase:firebase-measurement-connector-impl:17.0.4 : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\BeforeFirebase\debug\12.jar
+Jar 13 com.google.firebase:firebase-config:16.1.2 : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\BeforeFirebase\debug\13.jar
+Jar 14 com.google.firebase:firebase-analytics:16.0.6 : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\BeforeFirebase\debug\14.jar
+Jar 15 com.google.android.gms:play-services-clearcut:16.0.0 : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\BeforeFirebase\debug\15.jar
+Jar 16 com.google.android.gms:play-services-phenotype:16.0.0 : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\BeforeFirebase\debug\16.jar
+Jar 17 com.google.android.gms:play-services-measurement-api:16.0.4 : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\BeforeFirebase\debug\17.jar
+Jar 18 com.google.firebase:firebase-abt:16.0.1 : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\BeforeFirebase\debug\18.jar
+Jar 19 com.google.firebase:firebase-analytics-impl:16.2.4 : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\BeforeFirebase\debug\19.jar
+Jar 20 com.google.firebase:firebase-iid:17.0.3 : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\BeforeFirebase\debug\20.jar
+Jar 21 com.google.firebase:firebase-iid-interop:16.0.1 : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\BeforeFirebase\debug\21.jar
+Jar 22 com.google.android.gms:play-services-base:16.0.1 : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\BeforeFirebase\debug\22.jar
+Jar 23 com.google.firebase:firebase-common:16.0.3 : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\BeforeFirebase\debug\23.jar
+Jar 24 com.google.android.gms:play-services-tasks:16.0.1 : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\BeforeFirebase\debug\24.jar
+Jar 25 com.google.android.gms:play-services-measurement-base:16.0.5 : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\BeforeFirebase\debug\25.jar
+Jar 26 com.google.android.gms:play-services-stats:16.0.1 : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\BeforeFirebase\debug\26.jar
+Jar 27 com.google.firebase:firebase-measurement-connector:17.0.1 : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\BeforeFirebase\debug\27.jar
+Jar 28 com.google.android.gms:play-services-ads-identifier:16.0.0 : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\BeforeFirebase\debug\28.jar
+Jar 29 com.google.android.gms:play-services-basement:16.0.1 : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\BeforeFirebase\debug\29.jar
+Jar 30 com.android.support:support-v4:26.1.0 : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\BeforeFirebase\debug\30.jar
+Jar 31 com.android.support:support-media-compat:26.1.0 : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\BeforeFirebase\debug\31.jar
+Jar 32 com.android.support:support-fragment:26.1.0 : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\BeforeFirebase\debug\32.jar
+Jar 33 com.android.support:support-core-utils:26.1.0 : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\BeforeFirebase\debug\33.jar
+Jar 34 com.android.support:support-core-ui:26.1.0 : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\BeforeFirebase\debug\34.jar
+Jar 35 com.android.support:support-compat:26.1.0 : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\BeforeFirebase\debug\35.jar
+Jar 36 com.android.support:support-annotations:26.1.0 : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\BeforeFirebase\debug\36.jar
+Jar 37 android.arch.lifecycle:runtime:1.0.0 : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\BeforeFirebase\debug\37.jar
+Jar 38 android.arch.lifecycle:common:1.0.0 : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\BeforeFirebase\debug\38.jar
+Jar 39 android.arch.core:common:1.0.0 : C:\code\ctf\FirebasePerformanceTransformIssue\app\build\intermediates\transforms\BeforeFirebase\debug\39.jar
+
+************END(AfterFirebase)**************
+
+
+BUILD SUCCESSFUL in 25s
+30 actionable tasks: 29 executed, 1 up-to-date

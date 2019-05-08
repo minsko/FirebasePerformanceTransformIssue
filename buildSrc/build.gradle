@@ -3,6 +3,6 @@ repositories {
 	jcenter()
 }
 dependencies {
-    implementation 'com.android.tools.build:gradle-api:3.2.1'
+    implementation 'com.android.tools.build:gradle-api:3.4.0'
     implementation 'commons-io:commons-io:2.4'
 }
